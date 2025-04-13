@@ -1,0 +1,22 @@
+.custom-button {
+    color: rgb(237, 237, 13) !important;
+    border-color: rgb(237, 237, 13) !important;
+    border: 2px solid rgb(237, 237, 13) !important;
+    background-color: transparent !important;
+}
+
+.custom-button:hover {
+    background-color: rgb(237, 237, 13) !important;
+    color: white !important;
+    border-color: rgb(237, 237, 13) !important;
+}
+
+.freedoka {
+    font-family: "Fredoka", sans-serif;
+    font-weight: 700;
+}
+
+.poppins {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
